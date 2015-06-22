@@ -1,0 +1,8 @@
+F:\workspace-vs-2013\DesignPatterns\02_Strategy\bin\Debug\02_Strategy.exe.config
+F:\workspace-vs-2013\DesignPatterns\02_Strategy\bin\Debug\02_Strategy.exe
+F:\workspace-vs-2013\DesignPatterns\02_Strategy\bin\Debug\02_Strategy.pdb
+F:\workspace-vs-2013\DesignPatterns\02_Strategy\obj\Debug\_02_Strategy.Form1.resources
+F:\workspace-vs-2013\DesignPatterns\02_Strategy\obj\Debug\_02_Strategy.Properties.Resources.resources
+F:\workspace-vs-2013\DesignPatterns\02_Strategy\obj\Debug\02_Strategy.csproj.GenerateResource.Cache
+F:\workspace-vs-2013\DesignPatterns\02_Strategy\obj\Debug\02_Strategy.exe
+F:\workspace-vs-2013\DesignPatterns\02_Strategy\obj\Debug\02_Strategy.pdb

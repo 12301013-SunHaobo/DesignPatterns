@@ -1,0 +1,6 @@
+F:\workspace-vs-2013\DesignPatterns\01_SimpleFactory\bin\Debug\01_SimpleFactory.exe.config
+F:\workspace-vs-2013\DesignPatterns\01_SimpleFactory\bin\Debug\01_SimpleFactory.exe
+F:\workspace-vs-2013\DesignPatterns\01_SimpleFactory\bin\Debug\01_SimpleFactory.pdb
+F:\workspace-vs-2013\DesignPatterns\01_SimpleFactory\obj\Debug\01_SimpleFactory.csprojResolveAssemblyReference.cache
+F:\workspace-vs-2013\DesignPatterns\01_SimpleFactory\obj\Debug\01_SimpleFactory.exe
+F:\workspace-vs-2013\DesignPatterns\01_SimpleFactory\obj\Debug\01_SimpleFactory.pdb
